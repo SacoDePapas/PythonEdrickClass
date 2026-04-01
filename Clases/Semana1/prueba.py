@@ -1,2 +1,1 @@
-from dia2 import standarize
-
+print("hello world")
