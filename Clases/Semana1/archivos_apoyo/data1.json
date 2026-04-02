@@ -1,0 +1,14 @@
+
+[
+    {"name": "SaraManbiche", "age": 30, "skills": "python"},
+    {"name": "BiLl", "age": null, "skills": "python"},
+    {"name": "Sane", "age": 58, "skills": null},
+    {"name": "Jill", "age": 83, "skills": "java"},
+    {"name": "JAcK", "age": null, "skills": "c"},
+    {"name":  null, "age": 76, "skills": "go"},
+    {"name": "Sylvia", "age": 62, "skills": "java"},
+    {"name": "Anna", "age": 24, "skills": "js"},
+    {"name": "Beatriz", "age": 26, "skills": "js"}
+
+]
+

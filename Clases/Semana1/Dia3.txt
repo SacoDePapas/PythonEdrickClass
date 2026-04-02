@@ -1,1 +1,9 @@
 Este dia es un poco diferente, este dia toca hacer 1 de los 2 mini proyectos de la semana
+
+Reglas
+No usar al 100% ia, puede ser apoyo
+Puedes ver tus notas
+
+Resultados esperado
+Listas independientes separadas por tipo de skill, con todos los datos incluidos ya sea por input o hardcodeandolo nunca modificando el archivo original
+Texto homogenizados en mayusculas todos
