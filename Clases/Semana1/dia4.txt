@@ -1,0 +1,16 @@
+Proyecto final de la primera semana 
+para este proyecto necesitas 
+Flitrar: crea una nueva lista que solo contenga ordenes con el estatus de "shipped" 
+
+Transformar: para cada orden con el status "shipped" agrega una nueva llave llamada tax esta siendo 16% de la cantidad.
+
+Calcular: Calcula el total de ingresos (suma de todos los valores de las ordenes mandadas + impuestos).
+
+Resultado: Imprime el total de ingreso formatedo tal que asi: Total de ingresos recibidos: $1,234.56.
+
+Reglas:
+No usar Ia
+Tienes tiempo limite hasta la siguiente clase
+No dudes en preguntar
+si tienes algun error o duda tienes permitido usar StackOverflow/Documentacion directa de python
+SUERTE!
