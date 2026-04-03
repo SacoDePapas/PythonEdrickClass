@@ -1,5 +1,9 @@
 Proyecto final de la primera semana 
 para este proyecto necesitas 
+
+Usando el archivo "orders.json"
+
+
 Flitrar: crea una nueva lista que solo contenga ordenes con el estatus de "shipped" 
 
 Transformar: para cada orden con el status "shipped" agrega una nueva llave llamada tax esta siendo 16% de la cantidad.
